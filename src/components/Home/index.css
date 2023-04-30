@@ -1,0 +1,28 @@
+.homeContainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:20px;
+    
+}
+.homeImgContainer{
+ min-width:300px;
+}
+.homeImg{
+    width:100%;
+}
+.homeContent{
+    text-align: start;
+    width:200px;
+    line-height: 25px;;
+}
+.shopBtn{
+     width:100px;
+    color:white;
+    background-color:#0b69ff;
+    border-radius:10px;
+    height:35px;
+    border:0px;
+    text-align: center;
+    padding:5px;
+}
